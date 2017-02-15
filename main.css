@@ -1,0 +1,44 @@
+h1 {
+  color: white;
+}
+title {
+  color: black;
+}
+
+body {
+    text-align: center;
+    background: url("http://i.imgur.com/mleraBr.jpg");
+    background size: cover;
+    background position: center;
+    color: white;
+    font-family: Times;
+  }
+
+  Img{
+    border-radius: 50%;
+  }
+
+  p {
+    font-size: 30px
+  }
+
+  Input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+  }
+  input[type="submit"] {
+    background: red;
+    color: white;
+    font-family: Times;
+  }
+
+  input[placeholder] {
+    font-family: times;
+  }
+
+a {
+  color: white;
+  font: Times;
+  font size: 15px;
+}
