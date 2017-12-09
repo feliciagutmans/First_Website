@@ -1,11 +1,15 @@
-h1 {
+h1
+{
   color: white;
 }
-title {
+
+title
+{
   color: black;
 }
 
-body {
+body
+ {
     text-align: center;
     background: url("http://i.imgur.com/mleraBr.jpg");
     background size: cover;
@@ -14,30 +18,43 @@ body {
     font-family: Times;
   }
 
-  Img{
+div
+{
+  background-color:lightgrey;
+  padding:20px;
+}
+
+  Img
+  {
     border-radius: 50%;
   }
 
-  p {
+  p
+  {
     font-size: 30px
   }
 
-  Input {
+  Input
+  {
     border: 0;
     padding: 10px;
     font-size: 18px;
   }
-  input[type="submit"] {
+
+  input[type="submit"]
+  {
     background: red;
     color: white;
     font-family: Times;
   }
 
-  input[placeholder] {
+  input[placeholder]
+  {
     font-family: times;
   }
 
-a {
+a
+{
   color: white;
   font: Times;
   font size: 15px;
