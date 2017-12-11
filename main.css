@@ -18,10 +18,17 @@ body
     font-family: Times;
   }
 
+/*
 div
 {
   background-color:darkgrey;
   padding:20px
+}
+*/
+
+.content
+{
+  background-color: darkgrey;
 }
 
   Img
